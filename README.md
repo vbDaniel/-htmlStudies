@@ -25,11 +25,11 @@ A estrutura base do HTML:
 
 ###Tags comuns dentro de  <body></body>:###
 
-- '<text> => Insere qualquer tipo de texto e posibilita o style do mesmo;
-- "<list>" => Renderiza os items juntos;
-- "<links>" => Permite linkar um documentos ou paginas;
-- "<tables>" => Renderiza dados;
-- "<images> => Mostro imagens;
+- <text> => Insere qualquer tipo de texto e posibilita o style do mesmo;
+- <list> => Renderiza os items juntos;
+- <links> => Permite linkar um documentos ou paginas;
+- <tables> => Renderiza dados;
+- <images> => Mostro imagens;
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###Styles:###  
