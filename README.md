@@ -24,13 +24,13 @@ A estrutura base do HTML:
   
 
 ###Tags comuns dentro de  <body></body>:###
-
+```HTML
 - <text> => Insere qualquer tipo de texto e posibilita o style do mesmo;
 - <list> => Renderiza os items juntos;
 - <links> => Permite linkar um documentos ou paginas;
 - <tables> => Renderiza dados;
 - <images> => Mostro imagens;
-  
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###Styles:###  
   Sem sombra de dúvidas  uma das principais ferramentas, o que torna o site belo e acessível. Deve buscar uma idea de designer para obter o melhor resultado nessa ferramenta. Exite infinitas opção  dentro de <style> que podem ser acesadas pelo site da MDN.
